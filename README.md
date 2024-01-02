@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on the development and implementation of a **Students' Grievance System** in educational institutions. The system aims to address student concerns efficiently, providing them with a platform to voice their issues and seek resolution. The [research paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
+This project focuses on the development and implementation of a **Students' Grievance System** in educational institutions. The system aims to address student concerns efficiently, providing them with a platform to voice their issues and seek resolution. The [Research Paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
 
 ## Key Features
 - **Transparent Complaint Handling**: The system ensures transparency, fairness, and accountability in addressing student complaints.
@@ -58,7 +58,7 @@ This structure ensures a user-centric design for students and a hierarchical adm
 - **Dashboard Sections**:
   - Dashboard comprises sections for general announcements, submitted complaint responses, and an overview of the complaint status.
 
-![Main Interface Dashboard]([https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/04f61685-002e-4dca-92b9-3723132cba5c](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/ec0094d4-2333-43a1-b6df-25e9a291b205))
+ ![Main Interface](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/ec0094d4-2333-43a1-b6df-25e9a291b205)
     
    *Interface dashboard showcasing the system's main features.*
 
@@ -96,7 +96,7 @@ This structure ensures a user-centric design for students and a hierarchical adm
   - Students can attach detailed complaints and supporting documents in PDF format.
   - Option to remain anonymous to address sensitive issues.
     
-![Lodge Complaint](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/bdcb30d0-e166-45db-9c72-af386e45c922)
+   ![Lodge Complaint](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/bdcb30d0-e166-45db-9c72-af386e45c922)
 
    *Lodge complaint interface enabling students to submit their grievances easily.*
 
