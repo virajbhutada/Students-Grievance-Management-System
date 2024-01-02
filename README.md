@@ -41,8 +41,8 @@ The system framework is organized into two main sections:
 
 This structure ensures a user-centric design for students and a hierarchical administrative setup for efficient system management.
 ![Framework of Students' Grievance System](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/04f61685-002e-4dca-92b9-3723132cba5c)
-     
-    - Framework illustration depicting the structure of the Students' Grievance System.
+   
+   *Framework illustration depicting the structure of the Students' Grievance System.*
     
 ---
 
@@ -60,7 +60,7 @@ This structure ensures a user-centric design for students and a hierarchical adm
 
 ![Main Interface Dashboard]([https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/04f61685-002e-4dca-92b9-3723132cba5c](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/ec0094d4-2333-43a1-b6df-25e9a291b205))
     
-    - Interface dashboard showcasing the system's main features.
+   *Interface dashboard showcasing the system's main features.*
 
 ---
 
@@ -79,7 +79,7 @@ This structure ensures a user-centric design for students and a hierarchical adm
 
 ![Complaint Management System](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/bdcb30d0-e166-45db-9c72-af386e45c922)
 
-    - Complaint management system providing a seamless experience for students to submit and track their concerns.
+   *Complaint management system providing a seamless experience for students to submit and track their concerns.*
     
 ---
 
@@ -98,7 +98,7 @@ This structure ensures a user-centric design for students and a hierarchical adm
     
 ![Lodge Complaint](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/bdcb30d0-e166-45db-9c72-af386e45c922)
 
-    - Lodge complaint interface enabling students to submit their grievances easily.
+   *Lodge complaint interface enabling students to submit their grievances easily.*
 
 ---
 
@@ -122,7 +122,7 @@ In the development of the Students' Grievance System, a systematic and comprehen
    - Executed system development, testing, deployment, and maintenance.
    - Ensured the system's user-friendly interface and responsiveness.
 
-This comprehensive methodology aimed to create a robust Students' Grievance System meeting the highest standards of functionality, efficiency, and user experience.
+This comprehensive methodology aimed to create a robust Students Grievance System meeting the highest standards of functionality, efficiency, and user experience.
 
 ### Results
 
