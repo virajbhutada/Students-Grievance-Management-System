@@ -174,7 +174,7 @@ The Students' Grievance System harnesses a diverse set of technologies to ensure
 ## XAMPP Server Localhost
 
 The system is meticulously developed and rigorously tested on the **XAMPP Server Localhost**. This ensures seamless deployment and optimal functionality, providing a reliable foundation for the Students' Grievance System.
-For information on setting up XAMPP, please refer to the [XAMPP documentation](https://www.apachefriends.org)
+For information on setting up XAMPP, please refer to the [XAMPP Official Website](https://www.apachefriends.org)
 
 ---
 
