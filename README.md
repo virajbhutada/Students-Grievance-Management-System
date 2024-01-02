@@ -77,7 +77,8 @@ This structure ensures a user-centric design for students and a hierarchical adm
   - Submitted complaints are visible on the respective department, college, or university admin portal.
   - Enables administrators to address issues promptly.
 
-![Complaint Management System](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/bdcb30d0-e166-45db-9c72-af386e45c922)
+![Complaint Management System](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/5f3a114b-2d74-438f-b987-41cbb15b7017)
+
 
    *Complaint management system providing a seamless experience for students to submit and track their concerns.*
     
