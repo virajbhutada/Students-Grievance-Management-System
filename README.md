@@ -214,10 +214,12 @@ This research paper delves into the development, implementation, and benefits of
     git push origin main
     ```
 
-### Pull Request:
+### Pull Request
+
+To contribute to this project, follow these steps:
 
 1. Navigate to your forked repository on GitHub.
-2. Click on the "New pull request" button.
+2. Click on [**Create a New Pull Request**](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/compare)
 3. Select the branches you want to compare and create the pull request.
 
 ### Reporting Issues:
