@@ -219,15 +219,15 @@ This research paper delves into the development, implementation, and benefits of
 To contribute to this project, follow these steps:
 
 1. Navigate to your forked repository on GitHub.
-2. Click on [**Create a New Pull Request**](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/compare)
+2. Click on [**Create Pull Request**](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/compare) 
 3. Select the branches you want to compare and create the pull request.
 
 ### Reporting Issues:
 
 If you encounter any issues:
 
-1. Navigate to the repository's [Issues](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/issues) tab.
-2. Click on the [New Issue](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/issues/new) button.
+1. Navigate to the repository's [Issues](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/issues) 
+2. Click on the [New Issue](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/issues/new)
 3. Provide a clear and detailed description of the issue.
 
 ---
