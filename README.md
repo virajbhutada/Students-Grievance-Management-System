@@ -1,5 +1,7 @@
 # Students' Grievance System for Educational Institutions
 
+---
+
 ## Introduction
 
 This project focuses on the development and implementation of a **Students' Grievance System** in educational institutions. The system aims to address student concerns efficiently, providing them with a platform to voice their issues and seek resolution. The [Research Paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
@@ -16,6 +18,8 @@ This project focuses on the development and implementation of a **Students' Grie
 
 The paper emphasizes the importance of a **Student Grievance System** in higher education, highlighting its role in improving the overall learning environment. It discusses challenges such as fear of reprisals and the need for fair and timely complaint resolution.
 
+---
+
 ## Current System vs. New Web/Application-Based System
 
 ### Current System
@@ -26,6 +30,8 @@ The paper emphasizes the importance of a **Student Grievance System** in higher 
 - **Efficient Online Submission**: Students can instantly submit complaints from anywhere using the web/application interface.
 - **Secure Storage and Retrieval**: Complaints are securely stored, and administrators can efficiently manage and retrieve them.
 - **Email Alerts and Updates**: Students receive email alerts, and the website provides real-time updates on the status of their complaints.
+
+---
 
 ### 1. Framework of Students' Grievance System
 
@@ -125,6 +131,8 @@ In the development of the Students' Grievance System, a systematic and comprehen
    - Ensured the system's user-friendly interface and responsiveness.
 
 This comprehensive methodology aimed to create a robust Students Grievance System meeting the highest standards of functionality, efficiency, and user experience.
+
+---
 
 ### Results
 
