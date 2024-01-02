@@ -41,7 +41,9 @@ The system framework is organized into two main sections:
 
 This structure ensures a user-centric design for students and a hierarchical administrative setup for efficient system management.
 ![Framework of Students' Grievance System](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/04f61685-002e-4dca-92b9-3723132cba5c)
-
+     
+    - Framework illustration depicting the structure of the Students' Grievance System.
+    
 ---
 
 ### 2. Main Interface Dashboard
@@ -56,7 +58,9 @@ This structure ensures a user-centric design for students and a hierarchical adm
 - **Dashboard Sections**:
   - Dashboard comprises sections for general announcements, submitted complaint responses, and an overview of the complaint status.
 
-![Main Interface Dashboard](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/04f61685-002e-4dca-92b9-3723132cba5c)
+![Main Interface Dashboard]([https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/04f61685-002e-4dca-92b9-3723132cba5c](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/ec0094d4-2333-43a1-b6df-25e9a291b205))
+    
+    - Interface dashboard showcasing the system's main features.
 
 ---
 
@@ -75,9 +79,11 @@ This structure ensures a user-centric design for students and a hierarchical adm
 
 ![Complaint Management System](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/bdcb30d0-e166-45db-9c72-af386e45c922)
 
+    - Complaint management system providing a seamless experience for students to submit and track their concerns.
+    
 ---
 
-### 4. Lodge Complaint
+### 4. Lodge Complaint Interface
 - **User Registration**:
   - Students initiate the process by completing the registration form with essential information.
   - Information includes name, email, contact details, college and university information.
@@ -89,6 +95,10 @@ This structure ensures a user-centric design for students and a hierarchical adm
 - **Attachment and Anonymity**:
   - Students can attach detailed complaints and supporting documents in PDF format.
   - Option to remain anonymous to address sensitive issues.
+    
+![Lodge Complaint](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/bdcb30d0-e166-45db-9c72-af386e45c922)
+
+    - Lodge complaint interface enabling students to submit their grievances easily.
 
 ---
 
@@ -149,14 +159,14 @@ The Students' Grievance System harnesses a diverse set of technologies to ensure
 - **Less:** 0.4%
 - **Other:** 0.6%
 
-**XAMPP Server Localhost**
+## XAMPP Server Localhost
 
-The system is meticulously developed and rigorously tested on the XAMPP server localhost. This ensures seamless deployment and optimal functionality, providing a reliable foundation for the Students' Grievance System.
+The system is meticulously developed and rigorously tested on the **XAMPP Server Localhost**. This ensures seamless deployment and optimal functionality, providing a reliable foundation for the Students' Grievance System.
 
 ### Published Research Paper
 
-**Title:** Students' Grievance System: A Tech-Driven Solution  
-**Published in:** Journal of Emerging Technologies and Innovative Research  
+**Title:** Students' Grievance System: A Tech-Driven Solution for Educational Institutions
+**Published in**: Journal of Emerging Technologies and Innovative Research (JETIR)  
 *(An International Scholarly Open Access Journal, Peer-reviewed, Refereed Journal)*
 
 This research paper delves into the development, implementation, and benefits of the Students' Grievance System, presenting it as a cutting-edge tech-driven solution. Published in the reputable Journal of Emerging Technologies and Innovative Research, it signifies a scholarly endorsement of the system's significance and innovation.
@@ -184,9 +194,4 @@ If you're interested in contributing, cloning, or exploring the project further,
    - Create a pull request to merge your changes into the main repository.
 
 6. **Reporting Issues:**
-   - If you encounter any issues, feel free to open an issue on the repository.
-
-Get involved, contribute, and be a part of the continual improvement of the Students' Grievance System!
-
-![Lodge Complaint](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/ec0094d4-2333-43a1-b6df-25e9a291b205)
-
+   - If you happen to have any issues, please feel free to open an issue on the repository.
