@@ -250,7 +250,7 @@ If you encounter any issues:
 **Getting Started:**
 
 If you are new to contributing, you can start by:
-1. [Exploring open issues](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/issues) and pick one that interests you.
+1. [Exploring open issues](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/issues) and picking one that interests you.
 2. Forking the repository and creating a branch for your contributions.
 
 We appreciate your commitment to making education better through technology!
