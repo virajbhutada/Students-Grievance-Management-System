@@ -185,7 +185,13 @@ For information on setting up XAMPP, please refer to the [XAMPP documentation](h
     An International Scholarly Open Access Journal, Peer-reviewed, Refereed Journal
 - Access the full research paper [here](https://www.jetir.org/view?paper=JETIR2304A80)
 
-This research paper delves into the development, implementation, and benefits of the Students' Grievance System, presenting it as a cutting-edge tech-driven solution. Published in the reputable Journal of Emerging Technologies and Innovative Research, it signifies a scholarly endorsement of the system's significance and innovation.
+This research paper, titled "Students' Grievance System for Educational Institutions," delves into the development, implementation, and benefits of the Students' Grievance System, presenting it as a cutting-edge tech-driven solution. Published in the reputable Journal of Emerging Technologies and Innovative Research, it signifies a scholarly endorsement of the system's significance and innovation.
+
+### Certificate of Publication
+
+![Certificate of Publication](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/7ba032c2-a068-424a-a9ca-3c24a36c2680)
+
+This certificate acknowledges the publication of our research paper in the esteemed Journal of Emerging Technologies and Innovative Research (JETIR), an International Scholarly Open Access Journal. Peer-reviewed and refereed, the paper explores the development, implementation, and benefits of the Students' Grievance System.
 
 ---
 
