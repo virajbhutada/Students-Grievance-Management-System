@@ -198,7 +198,7 @@ This certificate acknowledges the publication of our research paper in the estee
 
 ## Project Files
 
-- **Link to Project Files:** [Google Drive folder](https://drive.google.com/drive/folders/1Rs6wo7gMSk9RLpylhxUimVN3AVr-STTP?usp=sharing)
+- **Link to Project Files:** [Google Drive folder]([https://drive.google.com/drive/folders/1Rs6wo7gMSk9RLpylhxUimVN3AVr-STTP?usp=sharing](https://drive.google.com/file/d/1uuTtNLNEe76GsTfgLTRGV5ETZBa3PVQC/view?usp=drive_link))
 -  Download and explore the project files to gain a comprehensive understanding of the Students' Grievance System.
 
 ---
