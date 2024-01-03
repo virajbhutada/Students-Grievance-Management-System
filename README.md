@@ -6,6 +6,7 @@
 
 This project focuses on the development and implementation of a **Students' Grievance System** in educational institutions. The system aims to address student concerns efficiently, providing them with a platform to voice their issues and seek resolution. The [Research Paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
 
+
 ## Key Features
 - **Transparent Complaint Handling**: The system ensures transparency, fairness, and accountability in addressing student complaints.
 - **Web Application Interface**: A user-friendly web application for students and administrators to interact with the system.
@@ -195,6 +196,12 @@ This certificate acknowledges the publication of our research paper in the estee
 
 ---
 
+## Project Files
+
+- **Link to Project Files:** [Google Drive folder](https://drive.google.com/drive/folders/1Rs6wo7gMSk9RLpylhxUimVN3AVr-STTP?usp=sharing)
+-  Download and explore the project files to gain a comprehensive understanding of the Students' Grievance System.
+
+---
 
 ## Repository Interaction Guide
 
