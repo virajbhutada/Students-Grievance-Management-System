@@ -107,8 +107,8 @@ This structure ensures a user-centric design for students and a hierarchical adm
 - **Attachment and Anonymity**:
   - Students can attach detailed complaints and supporting documents in PDF format.
   - Option to remain anonymous to address sensitive issues.
-    
-   ![Lodge Complaint](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/bdcb30d0-e166-45db-9c72-af386e45c922)
+
+![Lodge Complaint](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/assets/143819712/bdcb30d0-e166-45db-9c72-af386e45c922)
 
    *Lodge complaint interface enabling students to submit their grievances easily.*
 
