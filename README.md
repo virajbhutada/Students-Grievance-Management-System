@@ -6,6 +6,7 @@
 
 This project focuses on the development and implementation of a **Students' Grievance System** in educational institutions. The system aims to address student concerns efficiently, providing them with a platform to voice their issues and seek resolution. The [Research Paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
 
+---
 
 ## Key Features
 - **Transparent Complaint Handling**: The system ensures transparency, fairness, and accountability in addressing student complaints.
@@ -14,6 +15,8 @@ This project focuses on the development and implementation of a **Students' Grie
 - **Structured Framework**: The system is structured with well-defined procedures, explicit ideas, and established reporting systems.
 - **Training and Support**: Staff members receive training on resolving complaints, ensuring professional and impartial dispute resolution.
 - **Continuous Improvement**: The system incorporates feedback mechanisms, regular data collection, and benchmarking for continuous improvement.
+
+---
 
 ## Literature Review
 
