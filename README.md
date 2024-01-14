@@ -256,14 +256,14 @@ If you encounter any issues:
 
 ---
 
-**Ways to Contribute:**
+### Ways to Contribute:
 
 - Explore the codebase and suggest improvements.
 - Tackle open issues and contribute bug fixes.
 - Implement new features to enhance system functionality.
 - Share your insights and ideas in the discussions.
 
-**Getting Started:**
+### Getting Started:
 
 If you are new to contributing, you can start by:
 1. [Exploring open issues](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/issues) and picking one that interests you.
