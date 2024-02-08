@@ -211,10 +211,10 @@ This certificate acknowledges the publication of our research paper in the estee
 ### Clone the Repository:
 
 1. Click on the "Code" button at the top right corner of the repository page.
-2. Copy the repository URL: `https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions`
+2. Copy the repository URL: `https://github.com/virajbhutada/Students-Grievance-System`
 3. Open your terminal and run:
     ```bash
-    git clone https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions
+    git clone https://github.com/virajbhutada/Students-Grievance-System
     ```
 
 ### Fork the Repository:
@@ -243,15 +243,15 @@ This certificate acknowledges the publication of our research paper in the estee
 To contribute to this project, follow these steps:
 
 1. Navigate to your forked repository on GitHub.
-2. Click on [**Create Pull Request**](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/compare) button.
+2. Click on [**Create Pull Request**](https://github.com/virajbhutada/Students-Grievance-System/compare) button.
 3. Select the branches you want to compare and create the pull request.
 
 ### Reporting Issues:
 
 If you encounter any issues:
 
-1. Navigate to the repository's [Issues](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/issues) tab. 
-2. Click on the [New Issue](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/issues/new) button.
+1. Navigate to the repository's [Issues](https://github.com/virajbhutada/Students-Grievance-System/issues) tab. 
+2. Click on the [New Issue](https://github.com/virajbhutada/Students-Grievance-System/issues/new) button.
 3. Provide a clear and detailed description of the issue.
 
 ---
@@ -266,12 +266,12 @@ If you encounter any issues:
 ### Getting Started:
 
 If you are new to contributing, you can start by:
-1. [Exploring open issues](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions/issues) and picking one that interests you.
+1. [Exploring open issues](https://github.com/virajbhutada/Students-Grievance-System/issues) and picking one that interests you.
 2. Forking the repository and creating a branch for your contributions.
 
 We appreciate your commitment to making education better through technology!
 
-[Explore the Repository](https://github.com/virajbhutada/Students-Grievance-System-for-Educational-Institutions)
+[Explore the Repository](https://github.com/virajbhutada/Students-Grievance-System)
 
 Feel free to contribute, collaborate, and help us improve the Students' Grievance System! Your contributions make a significant impact on enhancing the overall educational experience.
 
