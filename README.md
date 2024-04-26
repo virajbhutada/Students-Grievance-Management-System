@@ -1,4 +1,4 @@
-# Students' Grievance System for Educational Institutions (Edu_Grievance_Tracker)
+# Educational Institution Grievance Management System (EIGMS)
 
 ---
 
