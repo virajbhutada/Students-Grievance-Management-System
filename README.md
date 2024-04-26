@@ -1,4 +1,4 @@
-# Educational Institution Grievance Management System (EIGMS)
+# Streamlined Student Grievance Redressal System (SGRS)
 
 ---
 
