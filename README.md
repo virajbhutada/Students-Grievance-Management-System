@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project focuses on the development and implementation of a **Students' Grievance System** in educational institutions. The system aims to address student concerns efficiently, providing them with a platform to voice their issues and seek resolution. The [Research Paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
+This project focuses on the development and implementation of a **Students' Grievance Management System** in educational institutions. The system aims to address student concerns efficiently, providing them with a platform to voice their issues and seek resolution. The [Research Paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
 
 ---
 
