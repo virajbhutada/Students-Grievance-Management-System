@@ -1,4 +1,4 @@
-# Streamlined Student Grievance Redressal System (SGRS)
+# Students' Streamlined Grievance Redressal System (SSGRS)
 
 ---
 
