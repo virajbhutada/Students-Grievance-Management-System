@@ -187,21 +187,13 @@ This comprehensive methodology aimed to create a robust Students Grievance Syste
 
 The implementation of the Students' Grievance System has yielded significant outcomes, demonstrating its impact and contributing to a more streamlined and effective process for addressing student concerns within educational institutions:
 
-
-1. **Enhanced Accessibility:**
-   - The system allows students to submit complaints conveniently from any location, promoting immediate responsiveness and accessibility.
-  
-2. **Efficient Data Management:**
-   - Robust data management capabilities ensure secure storage and efficient retrieval of complaints. This aids administrators in categorizing and managing complaints effectively, enhancing overall operational efficiency.
-   
-3. **Improved Transparency:**
-   - Implemented measures facilitate the grouping of complaints, ensuring a transparent and accountable grievance resolution process. This transparency fosters trust and confidence among students in the system.
-   
-4. **Real-time Updates:**
-   - Students receive timely email alerts and can access real-time updates on the status of their complaints through the system. This feature enhances communication channels and reinforces transparency.
-   
-5. **User-Driven Updates:**
-   - The system empowers students to update their complaints as needed, promoting a dynamic and responsive grievance management process. This flexibility ensures that students can actively engage in resolving their concerns.
+| **Insights**                           |         **Description**                                                           |
+|-----------------------------------------------|--------------------------------------------------------------------|
+| **Enhanced Accessibility**                     |  Students can conveniently submit complaints from any location, promoting immediate responsiveness and accessibility.           |
+| **Efficient Data Management**                  |  Robust data management capabilities ensure secure storage and efficient retrieval of complaints, aiding administrators in categorizing and managing complaints effectively. |
+| **Improved Transparency**                      |  Implemented measures facilitate transparent and accountable grievance resolution processes by grouping complaints effectively. This transparency fosters trust and confidence among students in the system |
+| **Real-time Updates**                          |  Students receive timely email alerts and access real-time updates on the status of their complaints through the system, enhancing communication channels and reinforcing transparency. |
+| **User-Driven Updates**                        |  The system allows students to update their complaints as needed, promoting a dynamic and responsive grievance management process that empowers students to actively engage in resolving their concerns. |
 
 ---
 
