@@ -2,6 +2,7 @@
 
 ---
 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -269,13 +270,6 @@ This certificate acknowledges the publication of our research paper in the estee
 
 ---
 
-## Project Files
-
-- **Link to Project Files:** [Google Drive folder](https://drive.google.com/file/d/1uuTtNLNEe76GsTfgLTRGV5ETZBa3PVQC/view?usp=drive_link)
--  Download and explore the project files to gain a comprehensive understanding of the Students' Grievance System.
-Certainly! Here's a revised version without that sentence:
-
----
 
 ## Project Files
 
@@ -392,8 +386,9 @@ By contributing to the Students' Grievance Management System, you not only help 
 
 ---
 
-## Connect With Me
+### Connect With Me
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![GitHub](https://img.shields.io/badge/GitHub-Viraj%20Bhutada-2b3137?logo=github)](https://github.com/virajbhutada)**
+
 
 
