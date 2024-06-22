@@ -23,13 +23,17 @@
 - [XAMPP Localhost](#xampp-localhost)
 - [Project Files](#project-files)
 - [Usage Instructions](#usage-instructions)
+  - [Prerequisites](#prerequisites)
+  - [Getting Started](#getting-started)
 - [Ways to Contribute](#ways-to-contribute)
 
 ---
 
 ## Introduction
 
-This project focuses on the development and implementation of a **Students' Grievance Management System** in educational institutions. The system aims to address student concerns efficiently, providing them with a platform to voice their issues and seek resolution. The [Research Paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
+This project focuses on developing and implementing a **Students' Grievance Management System** in educational institutions. The system aims to address student concerns efficiently, providing them with a platform to voice their issues and seek resolution. By streamlining the process of submitting and tracking grievances, the system ensures transparency and accountability, ultimately fostering a more supportive educational environment. The [Research Paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
+
+Implementing a grievance management system not only helps in resolving student issues promptly but also enhances the overall institutional workflow. It provides valuable insights into recurring problems, allowing administrators to make informed decisions and improve policies. Moreover, the system promotes student engagement and satisfaction by ensuring their voices are heard and their issues are taken seriously. This proactive approach contributes to a healthier academic atmosphere and reinforces the institution's commitment to student welfare.
 
 ---
 
@@ -76,10 +80,6 @@ This section contrasts traditional pen-and-paper grievance handling with a moder
 ---
 
 ## System Framework
-
-### Structure of Students' Grievance System
-
-The system framework is organized into two main sections:
 
 ### Students Interface
 
@@ -241,7 +241,7 @@ By integrating these recommendations, the Students' Grievance System can further
 ---
 ## XAMPP Localhost
 
-The Students' Grievance System has been meticulously developed and rigorously tested on the **XAMPP Server Localhost** environment. This comprehensive testing process ensures that all components of the system function seamlessly together, from database interactions to user interface responsiveness. By leveraging XAMPP, a widely used and reliable local server solution, we guarantee optimal performance and stability during **deployment**. This setup provides a solid foundation for the system's scalability and reliability, crucial for successful deployment and maintaining uninterrupted grievance management services within educational institutions.
+The Students' Grievance System has been meticulously developed and rigorously tested on the **XAMPP Localhost Server** environment. This comprehensive testing process ensures that all components of the system function seamlessly together, from database interactions to user interface responsiveness. By leveraging XAMPP, a widely used and reliable local server solution, we guarantee optimal performance and stability during **deployment**. This setup provides a solid foundation for the system's scalability and reliability, crucial for successful deployment and maintaining uninterrupted grievance management services within educational institutions.
 
 ### Key Benefits:
 - **Comprehensive Testing:** Ensures all system functionalities work cohesively.
@@ -287,53 +287,86 @@ These project files are essential for anyone involved in the development, admini
 
 ## Usage Instructions
 
+### Prerequisites
+
+Ensure that you have the following prerequisites installed on your local machine:
+
+- **XAMPP:** [Download XAMPP](https://www.apachefriends.org/download.html)
+- **Web Browser:** Latest version of Chrome, Firefox, or Edge.
+- **Database:** MySQL or any compatible database system.
+
+#### <a href="https://github.com/virajbhutada/Students-Grievance-Management-System" style="background-color: #24292e; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Installation Steps</a>
+
+- **Clone the Repository:**
+   ```bash
+   git clone https://github.com/virajbhutada/Students-Grievance-Management-System.git
+   ```
+   
+- **Setup XAMPP:**
+   - Start the Apache and MySQL modules.
+   - Create a new database named `students_grievance_system`.
+     
+- **Import the Database:**
+   - Import the `students_grievance_system.sql` file from the project directory into the database.
+     
+- **Configure the Application:**
+   - Update the database configuration in the `config.php` file with your database credentials.
+     
+- **Launch the Application:**
+   - Open your web browser and navigate to `http://localhost/Students-Grievance-System`.
+
+Refer to the [User Manual](docs/User_Manual.pdf) for detailed installation and usage instructions.
+
+---
+
 ### Getting Started
 
-### Clone the Repository:
+#### <a href="https://github.com/virajbhutada/Students-Grievance-Management-System" style="background-color: #24292e; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Clone the Repository</a>
 
-1. Click on the "Code" button at the top right corner of the repository page.
-2. Copy the repository URL: `https://github.com/virajbhutada/Students-Grievance-Management-System`
-3. Open your terminal and run:
+- Click on the "Code" button at the top right corner of the repository page.
+- Copy the repository URL: `https://github.com/virajbhutada/Students-Grievance-Management-System`
+- Open your terminal and run:
     ```bash
     git clone https://github.com/virajbhutada/Students-Grievance-Management-System
     ```
+    
+#### <a href="https://github.com/virajbhutada/Students-Grievance-Management-System/fork" style="background-color: #24292e; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Fork the Repository</a>
 
-### Fork the Repository:
+- Click on the "Fork" button at the top right corner of the repository page.
+- This will create a copy or a branch for your contributions of the repo under your GitHub account.
 
-1. Click on the "Fork" button at the top right corner of the repository page.
-2. This will create a copy or a branch for your contributions of the repo under your GitHub account.
 
-### Make Changes and Commit:
+#### <a href="https://github.com/virajbhutada/Students-Grievance-Management-System/fork" style="background-color: #24292e; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Make Changes and Commit</a>
 
-1. Make your desired changes locally.
-2. Commit the changes using Git:
+- Make your desired changes locally.
+- Commit the changes using Git:
     ```bash
     git add .
     git commit -m "Implement user authentication feature"
     ```
 
-### Push Changes:
+#### <a href="https://github.com/virajbhutada/Students-Grievance-Management-System/fork" style="background-color: #24292e; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Push Changes</a>
 
-1. Push your changes to your forked repository:
+- Push your changes to your forked repository:
     ```bash
     git push origin main
     ```
 
-### Pull Request
+#### <a href="https://github.com/virajbhutada/Students-Grievance-Management-System/compare" style="background-color: #24292e; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Pull Request</a>
 
 To contribute to this project, follow these steps:
 
-1. Navigate to your forked repository on GitHub.
-2. Click on [**Create Pull Request**](https://github.com/virajbhutada/Students-Grievance-Management-System/compare) button.
-3. Select the branches you want to compare and create the pull request.
+- Navigate to your forked repository on GitHub.
+- Click on [**Create Pull Request**](https://github.com/virajbhutada/Students-Grievance-Management-System/compare) button.
+- Select the branches you want to compare and create the pull request.
 
-### Reporting Issues:
+#### <a href="https://github.com/virajbhutada/Students-Grievance-Management-System/issues" style="background-color: #24292e; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Report Issues</a>
 
 If you encounter any issues:
 
-1. Navigate to the repository's [Issues](https://github.com/virajbhutada/Students-Grievance-Management-System/issues) tab and picking one that interests you.. 
-2. Click on the [New Issue](https://github.com/virajbhutada/Students-Grievance-Management-System/issues/new) button.
-3. Provide a clear and detailed description of the issue.
+- Navigate to the repository's [Issues](https://github.com/virajbhutada/Students-Grievance-Management-System/issues) tab and pick one that interests you.
+- Click on the [New Issue](https://github.com/virajbhutada/Students-Grievance-Management-System/issues/new) button.
+- Provide a clear and detailed description of the issue.
 
 We appreciate your commitment to making education better through technology! [Explore the Repository](https://github.com/virajbhutada/Students-Grievance-Management-System)
 
@@ -379,7 +412,7 @@ Contributing to the Students' Grievance Management System is a great way to enha
 ### 6. Promote the Project
 
 - **Social Media**: Share the project on social media platforms to increase its visibility and attract more contributors.
-- **Blog Posts**: Write blog posts or articles about your contributions, the features of the system, or your experience using it.
+- **Blog Posts**: Write blog posts or articles about your contributions, the system's features, or your experience using it.
 - **Presentations**: Give presentations or talks about the project at meetups, conferences, or webinars to spread the word and encourage community involvement.
 
 By contributing to the Students' Grievance Management System, you not only help create a more effective and user-friendly platform for addressing student concerns, but also gain valuable experience, connect with other passionate developers, and make a significant impact on enhancing the overall experience in the educational community.
