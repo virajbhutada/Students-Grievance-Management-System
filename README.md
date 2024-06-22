@@ -189,8 +189,8 @@ The implementation of the Students' Grievance System has yielded significant out
 
 | **Insights**                           |         **Description**                                                           |
 |-----------------------------------------------|--------------------------------------------------------------------|
-| **Enhanced Accessibility**                     |  Students can conveniently submit complaints from any location, promoting immediate responsiveness and accessibility.           |
-| **Efficient Data Management**                  |  Robust data management capabilities ensure secure storage and efficient retrieval of complaints, aiding administrators in categorizing and managing complaints effectively. |
+| **Enhanced Accessibility**                     |  Students can conveniently submit complaints from any location, using any device they use with internet access, promoting immediate responsiveness and accessibility, ensuring their concerns are promptly addressed.           |
+| **Efficient Data Management**                  |  Robust data management capabilities ensure secure storage and efficient retrieval of complaints, aiding administrators in categorizing and managing complaints effectively, enhancing overall operational efficiency. |
 | **Improved Transparency**                      |  Implemented measures facilitate transparent and accountable grievance resolution processes by grouping complaints effectively. This transparency fosters trust and confidence among students in the system |
 | **Real-time Updates**                          |  Students receive timely email alerts and access real-time updates on the status of their complaints through the system, enhancing communication channels and reinforcing transparency. |
 | **User-Driven Updates**                        |  The system allows students to update their complaints as needed, promoting a dynamic and responsive grievance management process that empowers students to actively engage in resolving their concerns. |
