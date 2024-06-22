@@ -13,7 +13,7 @@
 - [System Framework](#system-framework)
   - [Students Interface](#students-interface)
   - [Administrator Console](#administrator-console)
-  - [UI Dashboard](#ui-dashboard)
+  - [User Interface Dashboard](#user-interface-dashboard)
   - [Grievance Manager](#grievance-manager)
   - [Lodge Complaint Portal](#lodge-complaint-portal)
 - [Methodology](#methodology)
@@ -62,7 +62,7 @@ Moreover, modernizing these systems through technology offers transformative ben
 This section contrasts traditional pen-and-paper grievance handling with a modern web/application-based system in educational institutions. The shift enhances administrative efficiency, improves response times, ensures data security, and fosters proactive communication channels, thereby revolutionizing the management and resolution of student grievances.
 
 ### Conventional Grievance Resolution
-In the current educational landscape, grievance management often relies on antiquated pen and paper methods, which present several challenges:
+**Current System**: In the current educational landscape, grievance management often relies on antiquated pen and paper methods, which present several challenges:
 - **Pen and Paper-Based**: The traditional system requires physical documentation, which can lead to delays and the potential misplacement of important records.
 - **Extended Response Times**: Due to the manual handling of complaints, students often experience prolonged wait times for responses, resulting in frustration and dissatisfaction.
 
@@ -80,7 +80,7 @@ In the current educational landscape, grievance management often relies on antiq
 
 The system framework is organized into two main sections:
 
-#### Students Interface
+### Students Interface
 
    - **User-Friendly Interface:** Includes a well-designed dashboard, account settings, lodge complaints, and complaint history for seamless navigation.
    - **Transparent Interaction:** Empowers students to engage with the system effortlessly.
@@ -98,7 +98,8 @@ This structure ensures a user-centric design for students and a hierarchical adm
     
 ---
 
-### UI Dashboard
+### User Interface Dashboard
+
 - **Overview**: 
   - Centralized dashboard providing a snapshot of system activities.
   - General announcements and submitted complaint responses are visible.
@@ -226,23 +227,17 @@ By integrating these recommendations, the Students' Grievance System can further
 
 ### Technologies Used
 
-The Students' Grievance System harnesses a diverse set of technologies to ensure a robust and dynamic platform:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-54.5%25-gold?style=flat-square&logo=javascript&logoColor=white&labelColor=gray)
+![HTML](https://img.shields.io/badge/HTML-33.0%25-red?style=flat-square&logo=html5&logoColor=white&labelColor=gray)
+![CSS](https://img.shields.io/badge/CSS-8.4%25-blue?style=flat-square&logo=css3&logoColor=white&labelColor=gray)
+![PHP](https://img.shields.io/badge/PHP-2.4%25-A020F0?style=flat-square&logo=php&logoColor=white&labelColor=gray)
+![CoffeeScript](https://img.shields.io/badge/CoffeeScript-0.7%25-6F4E37?style=flat-square&labelColor=gray)
+![Less](https://img.shields.io/badge/Less-0.4%25-forestgreen?style=flat-square&labelColor=gray)
+![Other](https://img.shields.io/badge/Other-0.6%25-brown?style=flat-square&labelColor=gray)
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-54.5%25-yellow?style=for-the-badge&logo=javascript) ![HTML](https://img.shields.io/badge/HTML-33.0%25-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-8.4%25-blue?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-2.4%25-purple?style=for-the-badge&logo=php) ![CoffeeScript](https://img.shields.io/badge/CoffeeScript-0.7%25-brown?style=for-the-badge) ![Less](https://img.shields.io/badge/Less-0.4%25-darkblue?style=for-the-badge) ![Other](https://img.shields.io/badge/Other-0.6%25-lightgrey?style=for-the-badge)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-54.5%25-yellow?style=flat-square&logo=javascript&logoColor=white&labelColor=black)
-![HTML](https://img.shields.io/badge/HTML-33.0%25-orange?style=flat-square&logo=html5&logoColor=white&labelColor=black)
-![CSS](https://img.shields.io/badge/CSS-8.4%25-blue?style=flat-square&logo=css3&logoColor=white&labelColor=black)
-![PHP](https://img.shields.io/badge/PHP-2.4%25-purple?style=flat-square&logo=php&logoColor=white&labelColor=black)
-![CoffeeScript](https://img.shields.io/badge/CoffeeScript-0.7%25-brown?style=flat-square&labelColor=black)
-![Less](https://img.shields.io/badge/Less-0.4%25-darkblue?style=flat-square&labelColor=black)
-![Other](https://img.shields.io/badge/Other-0.6%25-lightgrey?style=flat-square&labelColor=black)
-
-
+---
 ## XAMPP Localhost
 
 The Students' Grievance System has been meticulously developed and rigorously tested on the **XAMPP Server Localhost** environment. This comprehensive testing process ensures that all components of the system function seamlessly together, from database interactions to user interface responsiveness. By leveraging XAMPP, a widely used and reliable local server solution, we guarantee optimal performance and stability during **deployment**. This setup provides a solid foundation for the system's scalability and reliability, crucial for successful deployment and maintaining uninterrupted grievance management services within educational institutions.
