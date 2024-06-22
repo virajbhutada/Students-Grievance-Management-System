@@ -69,12 +69,15 @@ This section contrasts traditional pen-and-paper grievance handling with a moder
 ### Conventional Grievance Resolution
 **Current System**: In the current educational landscape, grievance management often relies on antiquated pen and paper methods, which present several challenges:
 - **Pen and Paper-Based**: The traditional system requires physical documentation, which can lead to delays and the potential misplacement of important records.
+  
 - **Extended Response Times**: Due to the manual handling of complaints, students often experience prolonged wait times for responses, resulting in frustration and dissatisfaction.
 
 ### Online Application Infrastructure
 **Web/Application-Based System**: In contrast, the adoption of a modern web/application-based grievance system introduces significant improvements:
 - **Efficient Online Submission**: Students can conveniently submit complaints instantly from any location using a user-friendly web or application interface, eliminating the delays associated with physical paperwork.
+  
 - **Secure Storage and Retrieval**: Complaints are securely stored in digital formats, enabling administrators to efficiently manage and retrieve them as needed, ensuring confidentiality and accessibility.
+  
 - **Email Alerts and Real-time Updates**: To enhance communication and transparency, students receive immediate email alerts upon complaint submission. They can also check the system for real-time updates on the progress and resolution of their complaints, promoting accountability and trust in the process.
 
 ---
