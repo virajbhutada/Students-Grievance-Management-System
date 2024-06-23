@@ -1,8 +1,5 @@
 # Students' Streamlined Grievance Management System (SSGMS)
 
-Certainly! Here's a streamlined and detailed version with bullet points in the titles:
-
----
 
 ## Ways to Contribute
 
@@ -43,8 +40,6 @@ Contributing to the Students' Grievance Management System enables you to play a 
 
 ---
 
-This version maintains detail and structure while focusing on actionable ways contributors can engage with the project. Each bullet point in the titles highlights a specific action or area of contribution.
----
 
 
 ## Table of Contents
