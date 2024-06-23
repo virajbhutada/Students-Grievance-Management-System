@@ -1,6 +1,5 @@
 # Students' Streamlined Grievance Management System (SSGMS)
 
-
 ---
 
 
@@ -66,11 +65,13 @@ Moreover, modernizing these systems through technology offers transformative ben
 
 | **Conventional Grievance Resolution**                                                                                                                                                                  | **Modern Web/Application-Based System**                                                                                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Current System**: In the current educational landscape, grievance management often relies on antiquated pen and paper methods, which present several challenges:                                        | **Web/Application-Based System**: In contrast, the adoption of a modern web/application-based grievance system introduces significant improvements:                                                 |
+| **Current System**: In the current educational landscape, grievance management often relies on antiquated pen and paper methods, which present several challenges:                                        | **Web/Application-Based System**: In contrast, the implementation of a sophisticated, cloud-native web/application-based grievance system introduces substantial and transformative improvements:                  |
 | **Pen and Paper-Based**: The traditional system requires physical documentation, which can lead to delays and the potential misplacement of important records.                                              | **Efficient Online Submission**: Students can conveniently submit complaints instantly from any location using a user-friendly web or application interface, eliminating the delays associated with physical paperwork.  |
 | **Extended Response Times**: Due to the manual handling of complaints, students often experience prolonged wait times for responses, resulting in frustration and dissatisfaction.                       | **Secure Storage and Retrieval**: Complaints are securely stored in digital formats, enabling administrators to efficiently manage and retrieve them as needed, ensuring confidentiality and accessibility.                |
-| **Lack of Transparency**: Students may face challenges in tracking the status of their complaints due to the absence of real-time updates and notifications.                                            | **Email Alerts and Real-time Updates**: To enhance communication and transparency, students receive immediate email alerts upon complaint submission. They can also check the system for real-time updates on the progress and resolution of their complaints, promoting accountability and trust in the process. |
-
+| **Lack of Transparency**: Students may face challenges in tracking the status of their complaints due to the absence of real-time updates and notifications.                                            |  **Enhanced Accessibility and User Experience**: Users can access the grievance system anytime, anywhere, through intuitive interfaces, improving overall user satisfaction and engagement. |
+| **Manual Routing of Complaints**: Complaints are often routed manually through various departments or personnel, leading to potential bottlenecks and delays in resolution.                                    |    **Email Alerts and Real-time Updates**: Students receive immediate email alerts upon complaint submission to enhance communication and transparency. They can also check the system for real-time updates on the progress and resolution of their complaints, promoting accountability and trust in the process.    |  
+                                  
+                                  
 ---
 
 ## System Framework
